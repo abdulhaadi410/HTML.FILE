@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.nav-bar{
+  
+       height: 50px;
+       background-color: #FFFFFF;
+       color: #0f1111;
+       display: flex;
+       justify-content: space-evenly
+       
+     
+
+
+}
+
+.nav-logo{
+    height: 40px;
+    width: 40px;
+}
+
+
+.logo{
+    background-image: url("w3.png");
+    background-size: cover;
+    height: 38px;
+    width: 36px;
+    margin: 5px 0px 5px 2px;
+    
+}
+
+
+.tuto-real{
+    font-size: 0.85rem;
+   
+    padding: 16px 16px 16px 16px;
+}
+
+
+/** box2 **/
+
+.border{
+   border: 2px solid transparent;
+}
+.border:hover{
+    border: 2.5px solid #0f1111;
+    background-color: rgb(49, 174, 49);
+   
+}
+/* box3 */
+.ex-cize{
+      font-size: 0.85rem;
+    
+     padding: 16px 16px 16px 16px;
+}
+/* box4 */
+.cer-fit{
+    font-size: 0.85rem;
+    padding: 16px 16px 16px 16px;
+}
+/* box 5 */
+
+.ser-vice{
+    font-size: 0.85rem;
+    padding: 16px 16px 16px 16px ;
+   
+}
+.boot-camps{
+    font-size: 0.85rem;
+    padding: 16px 16px 16px 16px ;
+   
+ 
+}
